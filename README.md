@@ -11,7 +11,7 @@
   ## 🛠️ Skills and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel" />
   <img src="https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi" />
    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
