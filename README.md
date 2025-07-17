@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Mahesh Ghantenavar
-### Data Enthusiast | Football Analyst | SQL & Excel Specialist
+### Data Enthusiast | Football Analyst 
 
 - 👨‍💻 I’m a data and sports analyst passionate about insights, visuals, and smart decisions.
 - ⚽ I’ve worked on performance and tactical analysis using Wyscout & match data.
