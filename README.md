@@ -3,7 +3,6 @@
 
 - 👨‍💻 I’m a data and sports analyst passionate about insights, visuals, and smart decisions.
 - ⚽ I’ve worked on performance and tactical analysis using Wyscout & match data.
-- 📊 Currently transitioning into data analytics — learning Power BI, SQL, and Python.
 - 🧠 I enjoy working on data storytelling and clean dashboarding.
 - 🤝 Open to collaborate on data or sports-related analytics projects.
 - 🔗 Let's connect on [LinkedIn](www.linkedin.com/in/mahesh-ghantenavar-41b941188)
