@@ -14,5 +14,6 @@
   <img src="https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel" />
   <img src="https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi" />
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-Snowflake-black?style=flat-square&logo=snowflake" />
   <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter" />
+  <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" />
+  <img src="https://img.shields.io/badge/-Snowflake-black?style=flat-square&logo=snowflake" />
