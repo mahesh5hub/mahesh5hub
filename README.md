@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Mahesh Ghantenavar
 ### Data Enthusiast 
 
-- 👨‍💻 I’m a data engineer and sports analyst passionate about insights, visuals, and smart decisions.
+- 👨‍💻 I’m a data enthusiast and sports analyst passionate about insights, visuals, and smart decisions.
 - ⚽ I’ve worked on performance and tactical analysis using Wyscout & match data.
 - 🧠 I enjoy working on data storytelling and clean dashboarding.
 - 🤝 Open to collaborate on data or sports-related analytics projects.
